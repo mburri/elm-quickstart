@@ -1,0 +1,17 @@
+{
+  "name": "elm-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "elm": "^0.17.1",
+    "elm-live": "^2.6.0"
+  },
+  "scripts": {
+    "dev": "elm-live src/Main.elm --open --path-to-elm-make=node_modules/.bin/elm-make"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
