@@ -1,6 +1,9 @@
 # elm-quickstart
 
-Get up and running with Elm in minutes...
+Get up and running with Elm in seconds...
+
+
+no prerequisites - elm and elm-live server will be locally installed
 
 
 ## How?
